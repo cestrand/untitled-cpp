@@ -10,7 +10,7 @@ int Atom::total_count = 0;
 Atom::Atom() {
     total_count++;
     number = total_count;
-    std::cout<<number<<" - "<<"Atom object is being created"<<stdd::endl;
+    std::cout<<number<<" - "<<"Atom object is being created"<<std::endl;
 }
 
 Atom::~Atom() {
