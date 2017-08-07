@@ -12,17 +12,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7272b055-e5d3-471b-9a16-c7a799220147" name="" comment="clean git fail">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-    </list>
-    <list id="2e41add1-1911-486b-8131-e0d48e20e69c" name="Default" comment="clean git fail">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Progress/3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Progress/4" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/elementary/Atom.cpp" afterPath="$PROJECT_DIR$/elementary/Atom.cpp" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/untitled.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <file path="$PROJECT_DIR$/.idea/workspace.xml" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,20 +32,20 @@
       <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7144">
-              <caret line="202" column="13" lean-forward="false" selection-start-line="202" selection-start-column="13" selection-end-line="202" selection-end-column="13" />
+            <state relative-caret-position="-7054">
+              <caret line="208" column="13" lean-forward="false" selection-start-line="208" selection-start-column="13" selection-end-line="208" selection-end-column="13" />
               <folding>
-                <marker date="1502134805907" expanded="true" signature="39908:39950" ph="..." />
-                <marker date="1502134805907" expanded="true" signature="39908:39968" ph="..." />
-                <marker date="1502134805907" expanded="true" signature="39908:39981" ph="..." />
-                <marker date="1502134805907" expanded="true" signature="39908:39996" ph="..." />
-                <marker date="1502134805907" expanded="true" signature="40031:40431" ph="..." />
-                <marker date="1502134805907" expanded="true" signature="40044:40416" ph="..." />
-                <marker date="1502134805907" expanded="true" signature="40092:40402" ph="..." />
-                <marker date="1502134805907" expanded="true" signature="40111:40387" ph="..." />
-                <marker date="1502134805907" expanded="true" signature="40189:40367" ph="..." />
-                <marker date="1502134805907" expanded="true" signature="40229:40333" ph="..." />
-                <marker date="1502134805907" expanded="true" signature="40250:40311" ph="..." />
+                <marker date="1502135095236" expanded="true" signature="43472:43514" ph="..." />
+                <marker date="1502135095236" expanded="true" signature="43472:43532" ph="..." />
+                <marker date="1502135095236" expanded="true" signature="43472:43545" ph="..." />
+                <marker date="1502135095236" expanded="true" signature="43472:43560" ph="..." />
+                <marker date="1502135095236" expanded="true" signature="43595:43995" ph="..." />
+                <marker date="1502135095236" expanded="true" signature="43608:43980" ph="..." />
+                <marker date="1502135095236" expanded="true" signature="43656:43966" ph="..." />
+                <marker date="1502135095236" expanded="true" signature="43675:43951" ph="..." />
+                <marker date="1502135095236" expanded="true" signature="43753:43931" ph="..." />
+                <marker date="1502135095236" expanded="true" signature="43793:43897" ph="..." />
+                <marker date="1502135095236" expanded="true" signature="43814:43875" ph="..." />
               </folding>
             </state>
           </provider>
@@ -56,8 +54,8 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+            <state relative-caret-position="263">
+              <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -208,7 +206,7 @@
   <component name="TaskManager">
     <task id="Default" summary="Default task">
       <branch name="master" repository="$PROJECT_DIR$" />
-      <changelist id="2e41add1-1911-486b-8131-e0d48e20e69c" name="Default" comment="" />
+      <changelist id="" name="Default" comment="" />
       <created>1501867035128</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -228,7 +226,7 @@
       <updated>1502128266212</updated>
       <workItem from="1502128266381" duration="3941000" />
       <workItem from="1502132239028" duration="2251000" />
-      <workItem from="1502134552752" duration="268000" />
+      <workItem from="1502134552752" duration="546000" />
     </task>
     <task id="LOCAL-00002" summary="Basic logging facility">
       <created>1502133946619</created>
@@ -265,7 +263,63 @@
       <option name="project" value="LOCAL" />
       <updated>1502134755198</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="clean git fail">
+      <created>1502134832005</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1502134832005</updated>
+    </task>
+    <task id="LOCAL-00008" summary="clean git fail">
+      <created>1502134848846</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1502134848846</updated>
+    </task>
+    <task id="LOCAL-00009" summary="clean git fail">
+      <created>1502134871554</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1502134871554</updated>
+    </task>
+    <task id="LOCAL-00010" summary="clean git fail">
+      <created>1502134880773</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1502134880773</updated>
+    </task>
+    <task id="LOCAL-00011" summary="clean git fail">
+      <created>1502134991191</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1502134991191</updated>
+    </task>
+    <task id="LOCAL-00012" summary="clean git fail">
+      <created>1502135035811</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1502135035811</updated>
+    </task>
+    <task id="LOCAL-00013" summary="clean git fail">
+      <created>1502135059399</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1502135059399</updated>
+    </task>
+    <task id="LOCAL-00014" summary="clean git fail">
+      <created>1502135095090</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1502135095090</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers>
       <GitHub shared="false" url="https://github.com">
         <option name="assignedIssuesOnly" value="false" />
@@ -286,7 +340,7 @@
     </servers>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17205000" />
+    <option name="totallyTimeSpent" value="17483000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -302,6 +356,7 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15865384" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932165" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.49791667" order="1" side_tool="false" content_ui="tabs" x="1671" y="539" width="1920" height="302" />
       <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33076924" sideWeight="0.49679488" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932165" sideWeight="0.5032051" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33076924" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -312,7 +367,6 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="WINDOWED" visible="false" show_stripe_button="true" weight="0.39978677" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" x="0" y="58" width="1920" height="1022" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32959402" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.49791667" order="1" side_tool="false" content_ui="tabs" x="1671" y="539" width="1920" height="302" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -329,6 +383,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <confirmRemoveEmptyChangelist value="2" />
     <MESSAGE value="Basic logging facility" />
     <MESSAGE value="lower number of atom objects" />
     <MESSAGE value="lower number of atom objects and use ranged for loop" />
@@ -376,6 +431,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="12" column="4" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -412,6 +468,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="4" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -712,28 +769,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7144">
-          <caret line="202" column="13" lean-forward="false" selection-start-line="202" selection-start-column="13" selection-end-line="202" selection-end-column="13" />
+        <state relative-caret-position="-7054">
+          <caret line="208" column="13" lean-forward="false" selection-start-line="208" selection-start-column="13" selection-end-line="208" selection-end-column="13" />
           <folding>
-            <marker date="1502134805907" expanded="true" signature="39908:39950" ph="..." />
-            <marker date="1502134805907" expanded="true" signature="39908:39968" ph="..." />
-            <marker date="1502134805907" expanded="true" signature="39908:39981" ph="..." />
-            <marker date="1502134805907" expanded="true" signature="39908:39996" ph="..." />
-            <marker date="1502134805907" expanded="true" signature="40031:40431" ph="..." />
-            <marker date="1502134805907" expanded="true" signature="40044:40416" ph="..." />
-            <marker date="1502134805907" expanded="true" signature="40092:40402" ph="..." />
-            <marker date="1502134805907" expanded="true" signature="40111:40387" ph="..." />
-            <marker date="1502134805907" expanded="true" signature="40189:40367" ph="..." />
-            <marker date="1502134805907" expanded="true" signature="40229:40333" ph="..." />
-            <marker date="1502134805907" expanded="true" signature="40250:40311" ph="..." />
+            <marker date="1502135095236" expanded="true" signature="43472:43514" ph="..." />
+            <marker date="1502135095236" expanded="true" signature="43472:43532" ph="..." />
+            <marker date="1502135095236" expanded="true" signature="43472:43545" ph="..." />
+            <marker date="1502135095236" expanded="true" signature="43472:43560" ph="..." />
+            <marker date="1502135095236" expanded="true" signature="43595:43995" ph="..." />
+            <marker date="1502135095236" expanded="true" signature="43608:43980" ph="..." />
+            <marker date="1502135095236" expanded="true" signature="43656:43966" ph="..." />
+            <marker date="1502135095236" expanded="true" signature="43675:43951" ph="..." />
+            <marker date="1502135095236" expanded="true" signature="43753:43931" ph="..." />
+            <marker date="1502135095236" expanded="true" signature="43793:43897" ph="..." />
+            <marker date="1502135095236" expanded="true" signature="43814:43875" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+        <state relative-caret-position="263">
+          <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
           <folding />
         </state>
       </provider>
