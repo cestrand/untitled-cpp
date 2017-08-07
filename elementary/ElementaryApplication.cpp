@@ -29,9 +29,9 @@ void ElementaryApplication::fun_with_containers() {
         }
         return l;
     };
-    std::list<Atom*> list_of_atoms = create_list_of_n_atoms(110);
-    for(auto it = list_of_atoms.cbegin(); it != list_of_atoms.cend(); it++){
-        std::cout<<(*it)->number<<std::endl;
+    std::list<Atom*> list_of_atoms = create_list_of_n_atoms(5);
+    for(auto atom : list_of_atoms){
+        std::cout<<atom->number<<std::endl;
     }
     for(auto x : list_of_atoms){
         delete x;
