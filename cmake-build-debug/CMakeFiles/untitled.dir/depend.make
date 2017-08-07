@@ -15,4 +15,8 @@ CMakeFiles/untitled.dir/elementary/ElementaryApplication.cpp.o: ../elementary/El
 CMakeFiles/untitled.dir/main.cpp.o: ../Application.h
 CMakeFiles/untitled.dir/main.cpp.o: ../elementary/ElementaryApplication.h
 CMakeFiles/untitled.dir/main.cpp.o: ../main.cpp
+CMakeFiles/untitled.dir/main.cpp.o: ../utils/Logging.h
+
+CMakeFiles/untitled.dir/utils/Logging.cpp.o: ../utils/Logging.cpp
+CMakeFiles/untitled.dir/utils/Logging.cpp.o: ../utils/Logging.h
 

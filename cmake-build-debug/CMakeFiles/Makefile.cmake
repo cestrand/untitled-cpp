@@ -23,6 +23,7 @@ set(CMAKE_MAKEFILE_DEPENDS
   "/home/marcin2/bin/clion-2017.2.1/bin/cmake/share/cmake-3.8/Modules/Compiler/GNU-C.cmake"
   "/home/marcin2/bin/clion-2017.2.1/bin/cmake/share/cmake-3.8/Modules/Compiler/GNU-CXX.cmake"
   "/home/marcin2/bin/clion-2017.2.1/bin/cmake/share/cmake-3.8/Modules/Compiler/GNU.cmake"
+  "/home/marcin2/bin/clion-2017.2.1/bin/cmake/share/cmake-3.8/Modules/FindBoost.cmake"
   "/home/marcin2/bin/clion-2017.2.1/bin/cmake/share/cmake-3.8/Modules/Platform/Linux-GNU-C.cmake"
   "/home/marcin2/bin/clion-2017.2.1/bin/cmake/share/cmake-3.8/Modules/Platform/Linux-GNU-CXX.cmake"
   "/home/marcin2/bin/clion-2017.2.1/bin/cmake/share/cmake-3.8/Modules/Platform/Linux-GNU.cmake"
